@@ -1,0 +1,5 @@
+The experiments are conducted on the multilingual Named Entity Recognition (NER) systems which revealed multiple key findings. System A, considers recognition of 31 entity types and demonstrates robust performance across multiple classes as evidenced by high precision, recall, and F1 scores. System B was introduced to focus exclusively specifically on 5 entity types, precision and recall were quite high for LOCATION (LOC) entities, while other classes exhibited variations in the performance. This result suggested, that the choice of entity types impact significantly on model's behavior. The class imbalances had a high impact on the token classification pipeline, which resulted in focusing most frequently occurring entity type. This methodology is constrained by potential biases arising from the uneven distributions in entity classes and posing challenges in attaining an unbiased performance across a varied array of categories. Future work could address these limitations and explore strategies for reducing class imbalances and optimizing model architectures to ensure robust performance over the broader spectrum of entity types in multilingual contexts.
+
+
+
+
