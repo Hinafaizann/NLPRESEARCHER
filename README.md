@@ -1,2 +1,2 @@
 # NLPRESEARCHER
-RISE
+Run the code on Google Colab.
